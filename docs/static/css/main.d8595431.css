@@ -1,10 +1,10 @@
 * {
   font-family: Helvetica, Arial, sans-serif;
-  color: beige;
 }
 body {
   padding: 60px;
-  background-color: rgb(15, 15, 15);
+  color: beige;
+  background-color: black;
 }
 input {
   color: grey;
@@ -18,7 +18,7 @@ input {
 }
 .card {
   align-content: center;
-  border: 1px solid grey;
+  border: 1px solid black;
   border-radius: 6px;
   margin-bottom: 10px;
   margin-right: 10px;

@@ -1,9 +1,10 @@
 * {
   font-family: Helvetica, Arial, sans-serif;
+  color: beige;
 }
 body {
   padding: 60px;
-  background-color: rgb(32, 31, 31);
+  background-color: rgb(15, 15, 15);
 }
 input {
   color: grey;
